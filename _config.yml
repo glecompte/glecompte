@@ -1,0 +1,39 @@
+title: Garret Adventure Log
+description: Beer, 2 wheeled things, fun
+author: garret lecompte
+github: 
+about: mostly beer
+disqus_shortname: beer
+google_analytics: UA-beer-Y
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+# social:
+#     - icon: fa-facebook
+#       link: "#"
+
+share:
+  twitter_username: 
+  fb_appid: 
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: XML Feed
+      url: /feed.xml
+
+url: ""
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
