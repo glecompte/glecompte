@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "atomic apricot / mosaic ipa"
+title:  "Atomic Apricot / Mosaic Ipa"
 date:   2016-07-23
 categories: [beer, sour, clean]
 ---
