@@ -21,11 +21,14 @@ Just wanted to crank out a quick easy beer to test out the new brew system. Want
 * 1.5 oz norther brewer @ 8min
 * 1.5 oz northern brewer @ 1min
 
-![](/static/img/beer/IMG_0511.JPG){: width="300px"}
+![](/static/img/beer/newbrewery.JPG){: width="300px"}
+![](/static/img/beer/newbrewery2.JPG){: width="300px"}
+![](/static/img/beer/controlbox.JPG){: width="300px"}
+![](/static/img/beer/whirlpoolport.JPG){: width="300px"}
 
 **Notes:**
 Used RO water w/ ez water calc.
 
 Fermented with US-05, added 1 large blended seedless watermelon to each 5 gal portion. Pretty boring beer, but drinkable. Really needs some stronger hops.
 
-![](/static/img/beer/IMG_0515.JPG){: width="300px"}
+![](/static/img/beer/watermelonwheat.JPG){: width="300px"}
