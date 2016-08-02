@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Apple Valley to Big Bear Ride
+title: "Apple Valley to Big Bear Ride"
 date:   2016-07-31
 categories: [dirtbike]
 ---
