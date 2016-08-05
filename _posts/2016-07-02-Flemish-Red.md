@@ -26,3 +26,6 @@ Used RO water with ez water calc. Mashed at 156. Raised temp a little too high a
 Boiled for 90min. OG 1.056.
 
 Pitched 2 white labs belgian sour mix, 2 white labs flemish ale, 1 white labs pedio and a little brett c along with slurry of a 3L starter of white labs abbey ale.
+
+8/4 Racked from buckets to co2 purged cornies. PH in both buckets was 4.1 and gravity was at 1.015. Tasted good. Left some headspace in #1 and filled #2 to the brim. Put regular corny lids on. Transferred both cakes and ~1/2 gal of remaining beer into a few jars for possible reuse.
+
