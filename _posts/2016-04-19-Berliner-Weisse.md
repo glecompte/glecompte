@@ -4,6 +4,7 @@ title:  "Berliner Weisse"
 date:   2016-04-19
 categories: [beer, sour]
 ---
+![](/static/img/beer/og_brewery.JPG){: width="300px"}
 ![](/static/img/beer/nightbrew.JPG){: width="300px"}
 
 Very first sour, was also the final batch on my old brew system. Innoculated 2L starter with a cup of US pils, left at 100 degrees for a couple days. Saw huge krausen and vigorous fermentation. Suspected yeast contamination so I did not use (should've checked gravity out of curiousity.)
