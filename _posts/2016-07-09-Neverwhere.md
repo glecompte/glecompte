@@ -32,5 +32,6 @@ Used RO water w/ ez water calc. Mashed around 153. Boiled 60min. OG 1.068
 Pitched slurry from 4L brett c. starter.
 
 * 8/1 Added dry hops. Left bucket tasted really good, right one was a little sweet (still seeing some airlock activity on that one.)
+* 8/7 Gravity of right bucket was at 1.012. Started cold crash
 
 ![](/static/img/beer/portakeg.JPG){: width="300px"}

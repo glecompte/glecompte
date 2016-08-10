@@ -39,3 +39,8 @@ This portion came out at 1.049 due to the longer boil. PH 5.2.
 Moved to chest freezer and left for 4-5hours at 61f. Pitched a 1.5 liter starter of white labs american blend also started the night before. I then checked the ph of the sour portion and it was already at 3.4!!! I immediately moved to the chest freezer and after chilling for 4 hours I pitched 250ml of brett c. slurry and 1 wyeast french saison smack pack. Curious to see how the acidity turns out. I was worried it might get too tart with such a large lacto starter. 
 
 Plan to add 1oz citra, 1oz chinook to sour portion after apricots.
+
+* 8/7 Added dry hops to ipa
+* 8/9 Added 2 cans of apricot puree to sour portion. PH at 3.3
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/NO_nwrF6AKk" frameborder="0" allowfullscreen></iframe>
