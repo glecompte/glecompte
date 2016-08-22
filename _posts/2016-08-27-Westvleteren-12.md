@@ -18,6 +18,7 @@ Bad timing for this one as i'd prefer to have it ready in the holiday season but
 * 4.2 oz chocolate malt
 
 **Boil Ingredients**
+
 * 4 lb D90 candi syrup @ 0min
 * 2 lb D180 candi syrup @ 0min
 * 2.5 oz northern brewer @ 60min
@@ -25,5 +26,6 @@ Bad timing for this one as i'd prefer to have it ready in the holiday season but
 * 2x servomyces
 
 **Yeast**
+
 Prepared ~4L starter of wlp 530 abbey ale.
 
