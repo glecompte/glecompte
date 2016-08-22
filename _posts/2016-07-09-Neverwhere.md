@@ -33,7 +33,7 @@ Pitched slurry from 4L brett c. starter.
 
 * 8/1 Added dry hops. Left bucket tasted really good, right one was a little sweet (still seeing some airlock activity on that one.)
 * 8/7 Gravity of right bucket was at 1.012. Started cold crash
-* 8/11 Kegged and force carbed with carb stones
+* 8/11 Kegged and force carbed with carb stones. FG at 1.010. ~7.7% abv
 * 8/13 Tasted. Very good!
 
 ![](/static/img/beer/portakeg.JPG){: width="300px"}

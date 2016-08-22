@@ -35,4 +35,4 @@ Collected 15.5 gallons of 1.060 wort. After the 90min boil about 12 gallons rema
 Could only get output down to 77F, filled 2 buckets with 11 gallons and threw them in my chest freezer at 65F.
 
 Pitched slurry from the 2 yeast starters (2L each but saved around a 3rd of each for later batches.)
-
+o2 bottle ran out during oxygenation of bucket #2, got little to no oxygenation.. airlock activity took a little longer for that bucket.
