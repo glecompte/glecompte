@@ -29,3 +29,10 @@ Bad timing for this one as i'd prefer to have it ready in the holiday season but
 
 Prepared ~4L starter of wlp 530 abbey ale.
 
+**Notes**
+Mashed at 149 for 90min. Pulled 1.5 gallons of runnings off and boiled separately while starting the mash out. Took about 30 more min to get the mash up to 168. Started sparge and collected ~14.75 more gallons. The separate boil had condensed into a thick syrup by the time the main boil reached hot break. Added syrup to main boil. 
+
+Boil finished at the 11 gallon mark which means more like 12 gallons. I still had a gallon leftover after pulling 11 gallons into buckets (and leaving about .5 gallons in the kettle due to trub)
+Added brett/saison yeast to the leftover gallon as an experiment.
+
+After chilling to 65 I added the abbey ale starter. Bucket #1 got 400ml of slurry, bucket #2 got 600ml (poured too much accidentally.) Both blowoffs active by morning.

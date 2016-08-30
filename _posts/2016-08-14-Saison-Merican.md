@@ -36,3 +36,5 @@ Could only get output down to 77F, filled 2 buckets with 11 gallons and threw th
 
 Pitched slurry from the 2 yeast starters (2L each but saved around a 3rd of each for later batches.)
 o2 bottle ran out during oxygenation of bucket #2, got little to no oxygenation.. airlock activity took a little longer for that bucket.
+
+08/29 Sampled bucket #2, gravity at 1.014, tasted amazing. On the sweet side, not much bitterness present. Moved both buckets indoors to get the temp around 75-80.
