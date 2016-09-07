@@ -36,3 +36,6 @@ Boil finished at the 11 gallon mark which means more like 12 gallons. I still ha
 Added brett/saison yeast to the leftover gallon as an experiment.
 
 After chilling to 65 I added the abbey ale starter. Bucket #1 got 400ml of slurry, bucket #2 got 600ml (poured too much accidentally.) Both blowoffs active by morning.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/rjn63taiWpk" frameborder="0" allowfullscreen></iframe>
+

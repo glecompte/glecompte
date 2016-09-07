@@ -44,6 +44,6 @@ Plan to add 1oz citra, 1oz chinook to sour portion after apricots.
 * 8/9 Added 2 cans of apricot puree to sour portion. PH at 3.3
 * 8/14 Started cold crash of ipa
 * 8/18 Kegged ipa. FG of 1.015 ~4.5%
-
+* 9/5 Cold crashed apricot sour
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/NO_nwrF6AKk" frameborder="0" allowfullscreen></iframe>
