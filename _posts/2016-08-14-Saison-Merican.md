@@ -37,5 +37,7 @@ Could only get output down to 77F, filled 2 buckets with 11 gallons and threw th
 Pitched slurry from the 2 yeast starters (2L each but saved around a 3rd of each for later batches.)
 o2 bottle ran out during oxygenation of bucket #2, got little to no oxygenation.. airlock activity took a little longer for that bucket.
 
-08/29 Sampled bucket #2, gravity at 1.014, tasted amazing. On the sweet side, not much bitterness present. Moved both buckets indoors to get the temp around 75-80.
-09/02 Bucket 1 at 1.008, bucket 2 at 1.007 ~7.1% abv. Dry hopped bucket 2 with 2oz citra 2oz amarillo. Cold crashed bucket 1
+8/29 Sampled bucket #2, gravity at 1.014, tasted amazing. On the sweet side, not much bitterness present. Moved both buckets indoors to get the temp around 75-80.
+9/2 Bucket 1 at 1.008, bucket 2 at 1.007 ~7.1% abv. Dry hopped bucket 2 with 2oz citra 2oz amarillo. Cold crashed bucket 1
+9/5 Racked bucket 1 to keg. Cold crashed bucket 2.
+9/7 Kegged bucket 2

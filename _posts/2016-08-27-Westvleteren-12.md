@@ -37,5 +37,8 @@ Added brett/saison yeast to the leftover gallon as an experiment.
 
 After chilling to 65 I added the abbey ale starter. Bucket #1 got 400ml of slurry, bucket #2 got 600ml (poured too much accidentally.) Both blowoffs active by morning.
 
+9/5 Moved inside at 75-80 
+9/7 SG 1.023
+
 <iframe width="420" height="315" src="https://www.youtube.com/embed/rjn63taiWpk" frameborder="0" allowfullscreen></iframe>
 

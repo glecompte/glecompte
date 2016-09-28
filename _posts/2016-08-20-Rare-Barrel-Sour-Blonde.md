@@ -30,3 +30,4 @@ Yeast cakes from both flemish red buckets
 Mashed at 155 for 60min. Boiled 15.5 gal for 90min. 12.5 gallons remained at end of boil. OG 1.048. Split 11 gallons between 2 buckets, remaining 1 gallon I am using for a YB Lacto Blend starter. Bucket #1 got a portion of yeast cake slurry and melange slurry. Bucket #2 is melange only.
 
 * 8/22 Switched bucket #1 to a blowoff tube, yeast everywhere. WLP 530 is crazy stuff.
+* 9/20 Bucket #1 at 1.008 tasted really good. already sour. Bucket #2 at 1.006, a little less sour.
