@@ -27,3 +27,4 @@ White Labs German Lager
 
 * Mashed at 152, boiled 60min
 * 1/2/17 OG 1.061
+* 2/7/17 1.015
